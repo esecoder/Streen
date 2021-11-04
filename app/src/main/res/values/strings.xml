@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Streen</string>
+    <string name="app_logo_text">Strn://</string>
+    <string name="screen_streamer">Screen Streamer</string>
+    <string name="start_streaming">Start Streaming</string>
+    <string name="streaming">Start Streaming…</string>
+    <string name="ok">Ok</string>
+    <string name="notice">Notice</string>
+    <string name="setting_up_hotspot">Setting up Hotspot Network</string>
+    <string name="error">Error</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="cancel">Cancel</string>
+    <string name="network_name">Network Name:</string>
+    <string name="network_password">Password:</string>
+    <string name="link">Socket Link:</string>
+    <string name="switch_to_usb">Switch to USB</string>
+    <string name="use_bluetooth">Use Bluetooth</string>
+    <string name="use_internet">Use Internet</string>
+</resources>
